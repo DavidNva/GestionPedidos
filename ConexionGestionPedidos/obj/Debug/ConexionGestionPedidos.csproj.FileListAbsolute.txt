@@ -1,0 +1,15 @@
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe.config
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.pdb
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csprojAssemblyReference.cache
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.g.cs
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\App.g.cs
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.cache
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.lref
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.baml
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.g.resources
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.Properties.Resources.resources
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.GenerateResource.cache
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.exe
+D:\Documentos\David Nava-Proyectos de programacion\Curso de C#\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.pdb
