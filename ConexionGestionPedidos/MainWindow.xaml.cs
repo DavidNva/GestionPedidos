@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Configuration;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace ConexionGestionPedidos
 {
@@ -25,6 +27,22 @@ namespace ConexionGestionPedidos
         {
             InitializeComponent();
             string miConexion = ConfigurationManager.ConnectionStrings["ConexionGestionPedidos.Properties.Settings.GestionPedidosConnectionString"].ConnectionString;
+            miConexionSql = new SqlConnection(miConexion);
+            MuestraClientes();
         }
+        private void MuestraClientes()
+        {
+            string consulta = "SELECT * FROM CLIENTE";
+            SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(consulta, miConexionSql);
+            using (miAdaptadorSql)
+            {
+                DataTable clientesTabla = new DataTable();
+                miAdaptadorSql.Fill(clientesTabla);
+                listaClientes.DisplayMemberPath = "nombre";
+                listaClientes.SelectedValuePath = "Id";
+                listaClientes.ItemsSource = clientesTabla.DefaultView;
+            }
+        }
+        SqlConnection miConexionSql;
     }
 }
